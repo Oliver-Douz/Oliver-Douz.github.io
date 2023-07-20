@@ -1,0 +1,40 @@
+- id: 1
+  title: "后GPT书：从GPT-3开始，续写Transformer庞大家族系谱"
+  venue: Synced
+  description: "A technical blog to show the progress made in GPT after GPT-3"
+  paper: https://www.jiqizhixin.com/articles/2023-04-16-3?from=synced&keyword=%E7%8E%8B%E5%AD%90%E5%98%89
+  authors:
+    - Zijia Wang
+
+
+- id: 2
+  title: "从word2vec开始，说下GPT庞大的家族系谱"
+  venue: Synced
+  description: "A technical blog to show the developing process in GPT"
+  paper: https://www.jiqizhixin.com/articles/2020-10-04-2?from=synced&keyword=%E7%8E%8B%E5%AD%90%E5%98%89
+  authors:
+    - Zijia Wang
+
+- id: 3
+  title: "机器学习遇见生物学：详解蛋白质折叠预测中的算法"
+  venue: Synced
+  description: "A technical blog of machine learning in biology"
+  paper: https://www.jiqizhixin.com/articles/2019-12-23-12?from=synced&keyword=%E7%8E%8B%E5%AD%90%E5%98%89
+  authors:
+    - Zijia Wang
+
+- id: 4
+  title: "当博弈论遇上机器学习：一文读懂相关理论"
+  venue: Synced
+  description: "A technical blog for game theory and machine learning"
+  paper: https://www.jiqizhixin.com/articles/2019-10-28-9?from=synced&keyword=%E7%8E%8B%E5%AD%90%E5%98%89
+  authors:
+    - Zijia Wang
+
+- id: 5
+  title: "BigBiGAN的前世今生，走向成熟的特征抽取器"
+  venue: Synced
+  description: "A technical blog show the developing process in GAN"
+  paper: https://www.jiqizhixin.com/articles/2019-07-24-6?from=synced&keyword=%E7%8E%8B%E5%AD%90%E5%98%89
+  authors:
+    - Zijia Wang
