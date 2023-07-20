@@ -1,16 +1,16 @@
-
-- date: Jan 2023
+- date: July 2023
   description: >-
-    I will be joining [Adobe Research](https://research.adobe.com/) as a research engineer.
-
+    We have three papers accepted by [ICIP 2023 (2023 IEEE International Conference on Image Processing)](https://2023.ieeeicip.org/)
+    
 - date: Oct 2022
   description: >-
-    My internship project "Instant Add" is show-cased at [Adobe Max Sneaks 2022](https://youtu.be/vfMsVxnq-gc?t=785).
+    My project in Real time Avatar reconstruction and animation is shown in [CIIE 2022 (China International Import Expo)] (https://www.ciie.org/zbh/en/), which can perform facial style transfer and diffusion, face animation 
+    and voice cloning with limited computational resources.
 
-- date: Jul 2022
+ - date: Sep 2022
   description: >-
-    [_Layered Controllable Video Generation_](https://gabriel-huang.github.io/layered_controllable_video_generation/) 
-    has been accepted to ECCV 2022 as an **oral** presentation.
+    We have 2 papers accepted by NeurIPS22 and 2 papers accepted by ACCV22
 
-- date: May 2022
-  description: I will be joining [Adobe Research](https://research.adobe.com/) as a research scientist intern.
+- date: Jul 2021
+  description: >-
+     Our project in Autonomous Driving which is showcased using ADAS miniCar is shown in [CIIE 2021 (China International Import Expo)] (https://www.ciie.org/zbh/en/),
