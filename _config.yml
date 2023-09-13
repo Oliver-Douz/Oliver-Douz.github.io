@@ -23,9 +23,10 @@ name: Zi-Jia (Douz) Wang
 position: Senior Engineering Tehcnologiest
 email: Zijia_Wang@Dell.com
 description: >-
-  I'm a Senior Research Engineer at [Dell Research](https://www.dell.com/en-sg). Previously, I received my Master's Degree at [Imperial College London (ICL)](https://www.imperial.ac.uk/). 
+  I'm currently a Senior AI Researcher at [Dell Research](https://www.dell.com/en-sg) and a PhD at [Imperial College London (ICL)](https://www.imperial.ac.uk/) supervised by Prof. [Christofer Toumazou](https://www.imperial.ac.uk/people/c.toumazou) and
+  Prof. [Pantelis Georgiou](https://www.imperial.ac.uk/people/pantelis). Previously, I obtained my master's degree here supervised by [Prof. Francesca Toni](https://www.imperial.ac.uk/people/f.toni).
   
-  My current focus is on 3D reconsturction, Large Language Models and other Generative AI themes.
+  My PhD topic is about AI in Health Care and my current focus is on 3D reconsturction, Large Language Models and other Generative AI themes.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/" # the base hostname & protocol for your site, e.g. http://example.com
